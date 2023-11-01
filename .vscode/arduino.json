@@ -1,0 +1,5 @@
+{
+    "board": "arduino:mbed_rp2040:pico",
+    "sketch": "RP2040\\RP2040.ino",
+    "port": "COM7"
+}
