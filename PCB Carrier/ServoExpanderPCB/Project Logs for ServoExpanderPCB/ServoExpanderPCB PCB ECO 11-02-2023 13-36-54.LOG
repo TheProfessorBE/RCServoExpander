@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=3V3 Pin=*-3V3
+Added Pin To Net: NetName=5VUSB Pin=*-5V
+Added Pin To Net: NetName=ServoOut1 Pin=*-D0
+Added Pin To Net: NetName=ServoOut2 Pin=*-D1
+Added Pin To Net: NetName=ServoOut3 Pin=*-D2
+Added Pin To Net: NetName=ServoOut4 Pin=*-D3
+Added Pin To Net: NetName=ServoOut5 Pin=*-D4
+Added Pin To Net: NetName=ServoOut6 Pin=*-D5
+Added Pin To Net: NetName=ServoOut7 Pin=*-D6
+Added Pin To Net: NetName=ServoIn4 Pin=*-D7
+Added Pin To Net: NetName=ServoIn3 Pin=*-D8
+Added Pin To Net: NetName=ServoIn2 Pin=*-D9
+Added Pin To Net: NetName=ServoIn1 Pin=*-D10
+Added Pin To Net: NetName=GND Pin=*-GND

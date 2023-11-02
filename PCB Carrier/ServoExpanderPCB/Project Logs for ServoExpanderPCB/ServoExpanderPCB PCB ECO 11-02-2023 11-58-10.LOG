@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=S_OUT1
+Change Component Designator: OldDesignator=P2 NewDesignator=S_OUT2
+Change Component Designator: OldDesignator=P3 NewDesignator=S_IN1
+Change Component Designator: OldDesignator=P4 NewDesignator=S_OUT4
+Change Component Designator: OldDesignator=P5 NewDesignator=S_OUT3
+Change Component Designator: OldDesignator=P6 NewDesignator=S_IN2
+Change Component Designator: OldDesignator=P7 NewDesignator=S_OUT5
+Change Component Designator: OldDesignator=P8 NewDesignator=S_OUT6
+Change Component Designator: OldDesignator=P9 NewDesignator=S_IN3
+Change Component Designator: OldDesignator=P10 NewDesignator=S_OUT7
+Change Component Designator: OldDesignator=P11 NewDesignator=S_OUT8
+Change Component Designator: OldDesignator=P12 NewDesignator=S_IN4
+Added Room: Name=ServoExpanderPCB

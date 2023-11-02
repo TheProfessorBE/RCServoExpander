@@ -1,0 +1,220 @@
+*************************************************************
+FileName = ServoExpanderPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : ServoExpanderPCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ServoExpanderPCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D23
+    D24
+    D25
+    D26
+    D27
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ServoExpanderPCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ServoExpanderPCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ServoExpanderPCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ServoExpanderPCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D29
+    D30
+    D31
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ServoExpanderPCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ServoExpanderPCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ServoExpanderPCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ServoExpanderPCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ServoExpanderPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ServoExpanderPCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D17
+    D18
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ServoExpanderPCB.GM
+
+
+Used DCodes :
+    D39
+*************************************************************
+

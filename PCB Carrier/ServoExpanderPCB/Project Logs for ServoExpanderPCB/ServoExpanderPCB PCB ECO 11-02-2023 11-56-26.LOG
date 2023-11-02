@@ -1,0 +1,17 @@
+Added Component: Designator=M1(WS RP2040-Zero)
+Added Pin To Net: NetName=ServoIn1 Pin=M1-0
+Added Pin To Net: NetName=ServoIn2 Pin=M1-1
+Added Pin To Net: NetName=ServoIn3 Pin=M1-2
+Added Pin To Net: NetName=ServoIn4 Pin=M1-3
+Added Pin To Net: NetName=3V3 Pin=M1-3V3
+Added Pin To Net: NetName=ServoOut1 Pin=M1-4
+Added Pin To Net: NetName=ServoOut2 Pin=M1-5
+Added Pin To Net: NetName=5VUSB Pin=M1-5V
+Added Pin To Net: NetName=ServoOut3 Pin=M1-6
+Added Pin To Net: NetName=ServoOut4 Pin=M1-7
+Added Pin To Net: NetName=ServoOut5 Pin=M1-8
+Added Pin To Net: NetName=ServoOut6 Pin=M1-9
+Added Pin To Net: NetName=ServoOut7 Pin=M1-10
+Added Pin To Net: NetName=ServoOut8 Pin=M1-11
+Added Pin To Net: NetName=GND Pin=M1-GND
+Added Member To Class: ClassName=ServoExpanderPCB Member=Component M1 Waveshare RP2040 Zero

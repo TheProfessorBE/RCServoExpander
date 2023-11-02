@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=ServoIn1 Pin=M1-0
+Removed Pin From Net: NetName=ServoIn2 Pin=M1-1
+Removed Pin From Net: NetName=ServoIn3 Pin=M1-2
+Removed Pin From Net: NetName=ServoIn4 Pin=M1-3
+Removed Pin From Net: NetName=3V3 Pin=M1-3V3
+Removed Pin From Net: NetName=ServoOut1 Pin=M1-4
+Removed Pin From Net: NetName=ServoOut2 Pin=M1-5
+Removed Pin From Net: NetName=5VUSB Pin=M1-5V
+Removed Pin From Net: NetName=ServoOut3 Pin=M1-6
+Removed Pin From Net: NetName=ServoOut4 Pin=M1-7
+Removed Pin From Net: NetName=ServoOut5 Pin=M1-8
+Removed Pin From Net: NetName=ServoOut6 Pin=M1-9
+Removed Pin From Net: NetName=ServoOut7 Pin=M1-10
+Removed Pin From Net: NetName=GND Pin=M1-GND
+Removed Pin From Net: NetName=GND Pin=S_OUT8-1
+Removed Pin From Net: NetName=5V Pin=S_OUT8-2
+Removed Member From Class: ClassName=ServoExpanderPCB Member=M1
+Removed Member From Class: ClassName=ServoExpanderPCB Member=S_OUT8
+Added Component: Designator=*(XIAO RP2040)
+Add Pin To Net: Unknown Pin: Pin *-3V3
+Add Pin To Net: Unknown Pin: Pin *-5V
+Add Pin To Net: Unknown Pin: Pin *-D0
+Add Pin To Net: Unknown Pin: Pin *-D1
+Add Pin To Net: Unknown Pin: Pin *-D2
+Add Pin To Net: Unknown Pin: Pin *-D3
+Add Pin To Net: Unknown Pin: Pin *-D4
+Add Pin To Net: Unknown Pin: Pin *-D5
+Add Pin To Net: Unknown Pin: Pin *-D6
+Add Pin To Net: Unknown Pin: Pin *-D7
+Add Pin To Net: Unknown Pin: Pin *-D8
+Add Pin To Net: Unknown Pin: Pin *-D9
+Add Pin To Net: Unknown Pin: Pin *-D10
+Add Pin To Net: Unknown Pin: Pin *-GND
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Member To Class: ClassName=ServoExpanderPCB Member=Component * SEED XIAO RP2040
+Added Room: Name=ServoExpanderPCB
